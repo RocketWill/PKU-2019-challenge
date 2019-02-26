@@ -30,10 +30,10 @@ var url_detect_ops = {
                     btn_target.removeClass("disable");
                     var callback = null;
                     if (res.code == 200) {
-                         //callback = function () {
-                             window.location.href = "http://127.0.0.1:5000"+res.link;
-                         //}
-                        //alert(res.msg, callback);
+                        window.location.href = res.link;
+                    }
+                    else{
+                        alert(res.msg);
                     }
 
                 }

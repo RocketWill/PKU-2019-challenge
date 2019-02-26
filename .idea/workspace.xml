@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b30856-5a46-4883-96a4-37f47967e185" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/url-input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/ADFA-LD/adfa-ld-result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/static/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/LineIcons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/fonts/LineIcons.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/LineIcons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/fonts/LineIcons.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/LineIcons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/fonts/LineIcons.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/LineIcons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/fonts/LineIcons.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/fonts/line-icons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/adfa-ld/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/adfa-ld/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/domain_name/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/domain_name/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/assets/js/url_detect/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/url_detect/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/challenge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/url_input.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/url-detect-result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ADFA-LD/adfald-input.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/ADFA-LD/adfald-input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/domain-name-input.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/domain-name-input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/domain-name-result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/domain-name-result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/url-detect-result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/url-detect-result.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,96 +25,61 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/flask_test$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1550931312249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/2019$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1551069424276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.py">
+        <entry file="file://$PROJECT_DIR$/templates/ADFA-LD/adfald-input.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="542">
+              <caret line="62" column="51" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
               <folding>
-                <element signature="e#0#67#0" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/url-input.html">
+        <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="100" column="87" selection-start-line="100" selection-start-column="87" selection-end-line="100" selection-end-column="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="129">
+              <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+              <folding>
+                <element signature="e#348#1014#0" />
+                <element signature="e#1070#1436#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/url-detect-result.html">
+        <entry file="file://$PROJECT_DIR$/templates/ADFA-LD/adfa-ld-result.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="103" column="73" selection-start-line="103" selection-start-column="73" selection-end-line="103" selection-end-column="73" />
+            <state relative-caret-position="645">
+              <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/assets/js/adfa-ld/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="130" column="41" selection-start-line="130" selection-start-column="41" selection-end-line="130" selection-end-column="41" />
               <folding>
-                <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1551186775661" expanded="false" signature="969:1155" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/challenge.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="163" column="38" selection-start-line="163" selection-start-column="38" selection-end-line="163" selection-end-column="38" />
-              <folding>
-                <marker date="1550991452642" expanded="false" signature="969:1155" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/js/url_detect/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/css/owl.theme.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/fonts/untitled folder/line-icons.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/fonts/line-icons.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -125,6 +90,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -153,19 +119,27 @@
         <option value="$PROJECT_DIR$/templates/assets/css/main.css" />
         <option value="$PROJECT_DIR$/templates/url_input.html" />
         <option value="$PROJECT_DIR$/static/assets/js/popper.min.js" />
-        <option value="$PROJECT_DIR$/static/assets/js/url_detect/index.js" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/static/assets/css/main.css" />
         <option value="$PROJECT_DIR$/static/assets/fonts/line-icons.css" />
         <option value="$PROJECT_DIR$/templates/challenge.html" />
-        <option value="$PROJECT_DIR$/static/assets/css/style.css" />
         <option value="$PROJECT_DIR$/templates/url-detect-result.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/static/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/static/assets/js/url_detect/index.js" />
+        <option value="$PROJECT_DIR$/templates/domain-name-input.html" />
+        <option value="$PROJECT_DIR$/templates/domain-name-result.html" />
+        <option value="$PROJECT_DIR$/static/assets/js/domain_name/index.js" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/ADFA-LD/adfald-input.html" />
+        <option value="$PROJECT_DIR$/static/assets/js/adfa-ld/index.js" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/ADFA-LD/adfa-ld-result.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="86" />
-    <option name="y" value="52" />
+    <option name="x" value="69" />
+    <option name="y" value="23" />
     <option name="width" value="1553" />
     <option name="height" value="981" />
   </component>
@@ -184,7 +158,13 @@
             <path>
               <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="machine_learning_model" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning_models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
+              <item name="machine_learning_models" type="462c0819:PsiDirectoryNode" />
+              <item name="ADFA-LD" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
@@ -196,35 +176,6 @@
               <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="untitled folder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
@@ -232,22 +183,6 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019挑戰盃" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="url_detect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2019挑戰盃" type="b2602c69:ProjectViewProjectNode" />
@@ -268,10 +203,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/ADFA-LD" />
+      <recent name="$PROJECT_DIR$/static/assets/js/adfa-ld" />
       <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/assets/js/domain_name" />
       <recent name="$PROJECT_DIR$/static/assets/js" />
-      <recent name="$PROJECT_DIR$/static" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,23 +270,22 @@
       <option name="presentableId" value="Default" />
       <updated>1550930501879</updated>
       <workItem from="1550930504700" duration="5080000" />
-      <workItem from="1550938825307" duration="15783000" />
+      <workItem from="1550938825307" duration="27811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20863000" />
+    <option name="totallyTimeSpent" value="32891000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="86" y="52" width="1553" height="981" extended-state="0" />
-    <editor active="true" />
+    <frame x="69" y="23" width="1553" height="981" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32979977" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,18 +312,12 @@
     <entry file="file://$PROJECT_DIR$/templates/assets/js/index/index.js" />
     <entry file="file://$PROJECT_DIR$/templates/assets/css/style.css" />
     <entry file="file://$PROJECT_DIR$/templates/assets/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/url_model.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/js/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app1.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/js/popper.min.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -448,37 +377,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/img/result-bad.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/assets/js/url_detect/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/url-input.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="100" column="87" selection-start-line="100" selection-start-column="87" selection-end-line="100" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -495,30 +400,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/challenge.html">
+    <entry file="file://$PROJECT_DIR$/templates/url-detect-result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="163" column="38" selection-start-line="163" selection-start-column="38" selection-end-line="163" selection-end-column="38" />
+        <state relative-caret-position="413">
+          <caret line="115" column="42" selection-start-line="115" selection-start-column="42" selection-end-line="115" selection-end-column="42" />
           <folding>
-            <marker date="1550991452642" expanded="false" signature="969:1155" ph="..." />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/license.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url_model.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSPKU/untitled folder/1-ADFA-LD/linux.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/url_detect/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSPKU/untitled folder/5-用户恶意行为检测/uba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="155" column="25" selection-start-line="155" selection-start-column="25" selection-end-line="155" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSPKU/數據分析-方躍堅/nnn/7. Attention模型--训练.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SSPKU/數據分析-方躍堅/nnn/8. Attention模型--测试.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/url-detect-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="100" column="87" selection-start-line="100" selection-start-column="87" selection-end-line="100" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="361">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/url-detect-result.html">
+    <entry file="file://$PROJECT_DIR$/templates/domain-name-result.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="103" column="73" selection-start-line="103" selection-start-column="73" selection-end-line="103" selection-end-column="73" />
+        <state relative-caret-position="524">
+          <caret line="103" column="73" lean-forward="true" selection-start-line="103" selection-start-column="73" selection-end-line="103" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/domain_name/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/domain-name-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="62" column="68" selection-start-line="62" selection-start-column="68" selection-end-line="62" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="130" column="41" selection-start-line="130" selection-start-column="41" selection-end-line="130" selection-end-column="41" />
           <folding>
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1551186775661" expanded="false" signature="969:1155" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/adfa-ld/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+          <folding>
+            <element signature="e#348#1014#0" />
+            <element signature="e#1070#1436#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ADFA-LD/adfald-input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="62" column="51" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ADFA-LD/adfa-ld-result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
         </state>
       </provider>
     </entry>

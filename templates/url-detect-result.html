@@ -93,9 +93,9 @@
                                 </h4>
                             </div>
                             <div class="content">
-                                {% if result_id == '0' %}
+                                {% if result_id == 0 %}
                                     <h2 class="section-title result">非恶意网址</h2>
-                                {% elif result_id == '1' %}
+                                {% elif result_id == 1 %}
                                     <h2 class="section-title result">可能为恶意网址</h2>
                                 {% endif %}
                                 <br>
@@ -111,9 +111,9 @@
                 </div>
                 <div class="col-lg-6 col-md-12 col-xs-12 wow fadeInRight animated" data-wow-delay="0.3s"
                      style="visibility: visible;-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; animation-delay: 0.3s;">
-                    {% if result_id == '0' %}
+                    {% if result_id == 0 %}
                         <img class="img-fluid" src="static/assets/img/result-good.png" alt="">
-                    {% elif result_id == '1' %}
+                    {% elif result_id == 1 %}
                         <img class="img-fluid" src="static/assets/img/result-bad.png" alt="">
                     {% endif %}
                 </div>

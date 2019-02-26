@@ -88,19 +88,19 @@
                          style="visibility: visible;-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; animation-delay: 0.3s;">
                         <div class="url_detect_wrap">
                             <div class="site-heading">
-                                <p class="mb-3">DAG 域名检测</p>
-                                <h4 class="section-title input">您输入的<span class="enter-url">{{ test_link }}</span>检测结果：
+                                <p class="mb-3">ADFA-LD 主机入侵检测</p>
+                                <h4 class="section-title input">您输入的<span class="enter-url">{{ test_api }}</span>检测结果：
                                 </h4>
                             </div>
                             <div class="content">
                                 {% if result_id == 0 %}
-                                    <h2 class="section-title result">白名单网域</h2>
+                                    <h2 class="section-title result">Normal</h2>
                                 {% elif result_id == 1 %}
-                                    <h2 class="section-title result">可能为黑名单网域</h2>
+                                    <h2 class="section-title result">可能为 Attact</h2>
                                 {% endif %}
                                 <br>
                                 <div class="header-button">
-                                    <a href="domain-name" class="btn btn-common">再测一次</a>
+                                    <a href="/adfa-ld" class="btn btn-common">再测一次</a>
                                     <a href="/" style="margin-left: 10px;" class="btn btn-border video-popup">返回首页</a>
                                 </div>
 
